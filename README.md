@@ -5,4 +5,4 @@ Then we take any random image from the database as a test image, normalize it an
 
 Note: Add some images of faces to a folder having name "Database" in the working directory before running this code.
 
-P.S.: You can also make a bit change and put a threshold, and say all the values of euclidean distance having lesser value than threshold are recognized images.
+P.S.: You can also do a bit change in algorithm and put a threshold, and say all the values of euclidean distance having lesser value than threshold are recognized images.
