@@ -5,4 +5,4 @@ Then we take any random image from the database as a test image, normalize it an
 
 Note: I've added a zip folder named "Dataset" which contains images of my squad of Indian Cricket Team for ICC World Cup 2019. ;P :) You can add images of your choice to in a folder with the same name in the working directory before running this code.
 
-P.S.: You can also do a bit change in algorithm and put a threshold, and say all the values of euclidean distance having lesser value than threshold are recognized images.
+Note: You can also do a bit change in algorithm and put a threshold, and say all the values of euclidean distance having lesser value than threshold are recognized images.
