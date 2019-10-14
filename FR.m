@@ -1,4 +1,4 @@
-%% initializing database
+%%initializing database
 clc
 clear all
 close all
