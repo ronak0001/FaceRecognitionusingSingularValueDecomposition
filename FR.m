@@ -56,10 +56,10 @@ I=vec2mat(I,100);
 I=I';
 
 figure;
-subplot(211);
+subplot(211, 'align');
 imshow(I);
 title('Test Image');
 
-subplot(212);
+subplot(212, 'align');
 imshow(M);
 title('Recogized Image');
